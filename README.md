@@ -1,5 +1,5 @@
 # Adventure
-Adventure was a passion project of mine to make an advanced quest editor in Unreal Engine, using my custom Blueprint graph. It was also used on [Outpost: Glacier](https://twitter.com/OutpostGlacier).
+Adventure was a passion project of mine to make an advanced quest editor in Unreal Engine, using my custom Blueprint graph. It was also used on [Outpost: Glacier](https://twitter.com/OutpostGlacier) to make quests.
 
 It can create branching quests very easily with many different conditions. It also supports multiplayer out-of-the-box.
 
